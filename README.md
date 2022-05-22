@@ -8,7 +8,7 @@
 <p>  Backend Repository : https://github.com/medsaad2000/FastAPI-PredictionML </p>
 <p>  Frontend Repository : https://github.com/medsaad2000/Front-PredictionML </p>
 
-<h1>UI</h1>
+
 ![App](https://user-images.githubusercontent.com/81382178/169703265-0c6be51f-4607-486f-b2da-70798a6161f5.png)
 
 
