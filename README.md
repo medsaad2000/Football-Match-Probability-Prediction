@@ -2,11 +2,11 @@
 
 <p> Build a Predective Machine Learning Model to predict the outcome of football matches (victory, draw, loss) using Logistic Regression Algorithm </p>
 <p> The link of the competition : https://www.kaggle.com/competitions/football-match-probability-prediction </p>
-
+<p> Tools and Libraries : Python, Jupyter Notebook, scikit learn (sklearn), Numpy, Pandas, Matplotlib </p>
 <h1 style="text-align:center;">Web Application (UEFA CL Prediction)</h1>
 <p>  Integrating the ML model to a web application using Fast API in the Backend and Angular 13 in the Frontend</p>
-<p>  Backend Repository : https://github.com/medsaad2000/FastAPI-PredictionML </p>
-<p>  Frontend Repository : https://github.com/medsaad2000/Front-PredictionML </p>
+<p>  Backend Repository (FAST API) : https://github.com/medsaad2000/FastAPI-PredictionML </p>
+<p>  Frontend Repository (Angular 13) : https://github.com/medsaad2000/Front-PredictionML </p>
 
 
 ![App](https://user-images.githubusercontent.com/81382178/169703265-0c6be51f-4607-486f-b2da-70798a6161f5.png)
