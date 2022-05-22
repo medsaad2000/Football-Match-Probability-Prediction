@@ -6,6 +6,7 @@
 <h1 style="text-align:center;">Web Application (UEFA CL Prediction)</h1>
 <p>  Integrating the ML model to a web application using Fast API in the Backend and Angular 13 in the Frontend</p>
   <h3> For more details : </h3>
+  <p>Here's the links of the Backend Repository & the Frontend Repository </p>
 <p>  <strong>->Backend Repository (FAST API) :</strong> https://github.com/medsaad2000/FastAPI-PredictionML </p>
 <p>  <strong>->Frontend Repository (Angular 13) :</strong> https://github.com/medsaad2000/Front-PredictionML </p>
 
